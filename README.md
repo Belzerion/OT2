@@ -22,7 +22,7 @@ We'll sum up our different choices here :
     - Keylogger to acquire our own data on a fixed text (pangrams)
 - **Methods**
     - Scaled manhattan distance
-    - k Nearest Neighbour (k-NN)
+    - Keyboard image mapping
     - Decision Tree
 - **Data evaluation**
     - EER
