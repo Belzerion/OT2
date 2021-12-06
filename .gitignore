@@ -1,3 +1,8 @@
 .ipynb_checkpoints
 .idea
 .git
+data/training/input_data_merged/*
+data/training/preprocessed_data/*
+data/test/preprocessed_data_unknown/*
+data/training/reference/*
+data/test/reference_unknown/*
